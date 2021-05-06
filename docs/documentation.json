@@ -1,0 +1,12 @@
+{
+	"documentation of social network ":"api",
+	"all posts":"/posts",
+	"signup":"/signup",
+	"signin":"/signin",
+	"gets users":"/users",
+	"get profile update profile and delete profile ":"/users/:userId",
+	"create post":"/post/new/userId",
+	"get post update post delete post of specific user":"/posts/:postId",
+	"get all posts by user":"posts/by/userId"
+
+}
